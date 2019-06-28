@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## 爱因斯坦-1-远见
 
