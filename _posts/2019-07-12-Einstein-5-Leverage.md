@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## 爱因斯坦-5-利用
 
@@ -16,4 +16,3 @@ published: false
 ## 奥林匹亚学院
 
 ## 名声
- 
