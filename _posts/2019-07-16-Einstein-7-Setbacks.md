@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## 爱因斯坦-7-承受挫折
 
